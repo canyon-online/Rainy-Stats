@@ -1,0 +1,7 @@
+{
+    "name": "Rainy Stats",
+    "description": "Toggle a stats display with the keybind 'j'",
+    "internalname": "rainystats",
+    "version": "1.3.0",
+    "author": "who is he",
+}
